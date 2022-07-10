@@ -3,7 +3,7 @@
 
 # OC更新日志
 
-1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta 2
+1.更新至0.8.2版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta 2
 
 2.默认config.plist 支持只有大核心的CPU型号；有小核心的CPU型号，需开启provideCurrentCpuInfo；
 
