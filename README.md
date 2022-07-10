@@ -1,6 +1,7 @@
 # MS-H610ITX-Hackintosh  更新中
 
 
+# OC更新日志
 
 1.更新至0.8.2正式版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta 2
 
@@ -14,7 +15,7 @@
 
 
 
-测评主机配置：
+# 测评主机配置：
 
 主板：铭瑄 MS-H610ITX
 
