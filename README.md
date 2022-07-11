@@ -13,6 +13,9 @@
 
 5,重新定制15个USB端口
 
+#  下载地址 （在右侧的Releases）
+
+![](https://github.com/Xmingbai/MS-H610ITX-Hackintosh/blob/main/Released.png)
 
 
 # 测评主机配置：
