@@ -1,5 +1,4 @@
-# MS-H610ITX-Hackintosh  页面编辑中
-
+# MS-H610ITX-Hackintosh
 
 # OC更新日志
 
