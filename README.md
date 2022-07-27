@@ -10,8 +10,8 @@
 支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
 
 #  下载地址 （在右侧的Releases）
+https://github.com/Xmingbai/MS-H610ITX-Hackintosh/releases
 
-![](https://github.com/Xmingbai/MS-H610ITX-Hackintosh/blob/main/Released.png)
 
 
 # 测评主机配置：
