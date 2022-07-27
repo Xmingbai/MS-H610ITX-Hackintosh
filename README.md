@@ -7,9 +7,10 @@
 
 2.默认config.plist 支持只有大核心的CPU型号；有小核心的CPU型号，需开启provideCurrentCpuInfo；
 
-支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
+3. 支持所有Navi核心独立显卡并支持其温度监控（需要自己去勾选RadeonSensor.kext和SMCRadeonGPU.kext，OS13已不需要）
 
 #  下载地址 （在右侧的Releases）
+
 https://github.com/Xmingbai/MS-H610ITX-Hackintosh/releases
 
 
