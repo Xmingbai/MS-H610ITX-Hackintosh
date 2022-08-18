@@ -1,4 +1,4 @@
-# MS-H610ITX-Hackintosh
+# 铭瑄 MS-H610ITX-Hackintosh
 
 # OC更新日志
 
