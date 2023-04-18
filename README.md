@@ -1,5 +1,7 @@
 # 铭瑄 MS-H610ITX-Hackintosh
 
+#参考视频： https://www.bilibili.com/video/BV18U4y1q7Fw (白嫖党三连支持一下)
+
 # OC更新日志
 
 1.更新至0.8.2版，支持Catalina 10.15.x、bigsur 11.6.x、Monterey 12.x、MacOS 13 beta 2
